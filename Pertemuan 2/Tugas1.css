@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", serif;
+}
+
+body{
+    margin-inline: 400px;
+}
+
+h5{
+    font-weight: 300;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 55px;
+}
+
+.by{
+    margin-top: -35px;
+    font-size: 12px;
+}
+
+ol{
+    color:blue;
+    margin-top: -15px;
+    font-size: 12px;
+}
+
+ol li::marker{
+    color: black;
+}
+
+.Daftar_isi{
+    font-weight: 450;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+h2{
+    font-weight: 450;
+    margin-left: 8px;
+}
+
+.S::first-letter{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p{
+    margin-top: -15px;
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 350;
+}
+
+.Lyon{
+    font-weight: 250;
+    margin-left: -620px;
+    margin-top: -10px;
+}
